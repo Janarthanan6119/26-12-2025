@@ -1,4 +1,3 @@
-# # Get and Print String in Double Quotes
 n = int(input())
 m = int(input())
 s = int(input())
@@ -10,4 +9,5 @@ for i in range(0,n):
             count+=1
 print(count*s)
 # inp = "Hello"
+
 # print(inp[0])
